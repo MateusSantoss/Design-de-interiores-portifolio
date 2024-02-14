@@ -1,0 +1,35 @@
+header {
+    background-color: white;
+}
+
+header.container-fluid div.row div {
+    height: 28.75rem;
+}
+
+header div img {
+    background-color: white;
+}
+
+
+header.container-fluid div div#header-direito {
+    background-color: #C3B4A6;
+}
+
+#header-direito {
+    color: white;
+   
+}
+
+  
+  /* The element to apply the animation to */
+ 
+
+#header-direito h1 {
+    
+  
+
+    text-shadow: 3px 3px black;
+   
+    
+}
+

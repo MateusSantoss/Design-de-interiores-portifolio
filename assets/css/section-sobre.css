@@ -1,0 +1,43 @@
+#sobre {
+    background-color: white;
+    color: #44403C;
+}
+
+
+#sobre {
+    margin-left: 1.625rem;
+    padding: 0.625rem;
+    padding-left: 3.125rem;
+}
+
+#sobre #article-esquerdo h1 {
+    margin-top: 3.625rem;
+    margin-bottom: 1.5rem;
+    color: #44403C;
+}
+
+
+
+   
+
+/*formação e principais experiências*/
+#info-sobre {
+    margin-top: 4.375rem;
+}
+
+#info-sobre ul li {
+    font-size: 0.938rem;
+}
+
+#sobre #article-direito img {
+    margin-top: 0.625rem;
+    box-shadow: 5px 5px rgba(0, 0, 0, 0.74);
+    
+   
+}
+
+
+
+#info-sobre p {
+    font-family: "Montserrat", sans-serif;
+}

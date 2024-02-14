@@ -1,0 +1,26 @@
+#projetos {
+    background-color: rgb(255, 255, 255);
+    padding: 1.25rem;
+    margin-top: 3.125rem;
+}
+
+#projetos article {
+    margin-top: 2.5rem;
+    margin-left: 2.5rem;
+    
+
+}
+
+#projetos article p {
+    margin-bottom: 3.125rem;
+    margin-top: 2.5rem;
+   
+}
+
+
+#projetos article div div  img {
+    max-width: 31.25rem;
+    margin-top: 0.313rem;
+    height: 100%;
+
+}

@@ -1,0 +1,33 @@
+#sumario div h1 {
+    color: white;
+}
+
+#sumario div {
+    padding: 0.938rem;
+}
+
+#sumario #imgs-sumario {
+    background-color: white;
+}
+
+#sumario #imgs-sumario div h5 {
+    text-align: center;
+    margin-top: 0.313rem;
+}
+
+#sumario #imgs-sumario div {
+    height: 21.875rem;
+}
+
+#sumario #imgs-sumario div img {
+    max-height: 100%;
+    transition: 1s;
+}
+
+
+#sumario #imgs-sumario div img:hover {
+   
+    box-shadow: 3px 3px 3px 3px black;
+    
+}
+
