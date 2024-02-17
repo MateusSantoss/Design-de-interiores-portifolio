@@ -8,6 +8,7 @@ a {
 
 #sumario div {
     padding: 0.938rem;
+   
 }
 
 #sumario #imgs-sumario {
@@ -17,6 +18,8 @@ a {
 #sumario #imgs-sumario div h5 {
     text-align: center;
     margin-top: 0.313rem;
+    
+  
 }
 
 #sumario #imgs-sumario div {

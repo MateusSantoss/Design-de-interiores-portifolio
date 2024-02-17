@@ -33,3 +33,8 @@ header.container-fluid div div#header-direito {
     
 }
 
+@media (max-width: 600px) {
+    header {
+        width: 250px;
+    }
+  }

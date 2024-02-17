@@ -1,0 +1,51 @@
+#contato {
+    color: white;
+    background-color: white;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+ #contato h1 {
+    font-size: 5.813rem;
+    
+    
+}
+
+#contato img {
+
+    margin-left: 1.25rem;
+}
+
+#contato #contato-info {
+    background-color: #C3B4A6 ;
+}
+
+#contato ul {
+    font-size:1.438rem;
+    margin-top: 1.7rem;
+    margin-bottom: 5rem;
+}
+
+#contato span {
+    font-size: 1.563rem;
+}
+
+@media (max-width: 600px) {
+    #contato h1 {
+        font-size: 2rem;
+        
+        
+    }
+
+    #contato span {
+        font-size: 1rem;
+    }
+
+    #contato ul {
+        font-size:1rem;
+        margin-top: 1.7rem;
+        margin-bottom: 5rem;
+    }
+    
+
+}

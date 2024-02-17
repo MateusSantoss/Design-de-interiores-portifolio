@@ -24,3 +24,30 @@
     height: 100%;
 
 }
+
+@media (max-width: 600px) {
+    #projetos {
+        padding: 10px;
+        margin-left: 0;
+    }
+
+    #projetos article {
+        margin-top: 2.5rem;
+        margin-left: 1rem;
+        
+    
+    }
+
+    #projetos article div div  {
+        
+        margin-bottom: 1rem;
+        
+    
+    }
+
+    
+
+
+   
+}
+
